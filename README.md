@@ -12,6 +12,9 @@ Numpy: 1.21.6
 Tensorflow: 2.9.2
 Gradio: 3.16.1
 ```
+# model
+Saved in .h5 format.
+https://drive.google.com/file/d/1Ly6G-dpH_2_JtoG3Qy7sdbyIzsHIcoRG/view?usp=share_link
 
 # Loss Curve - Training and validation
 ![image](https://user-images.githubusercontent.com/84025317/211824567-bc0fe805-a59f-4cc9-b4b2-7adee2deff91.png)
