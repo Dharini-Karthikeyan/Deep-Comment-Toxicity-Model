@@ -12,7 +12,7 @@ Numpy: 1.21.6
 Tensorflow: 2.9.2
 Gradio: 3.16.1
 ```
-# model
+# Model
 Saved in .h5 format.
 https://drive.google.com/file/d/1Ly6G-dpH_2_JtoG3Qy7sdbyIzsHIcoRG/view?usp=share_link
 
