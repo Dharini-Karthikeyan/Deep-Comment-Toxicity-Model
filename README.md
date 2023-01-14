@@ -1,5 +1,5 @@
 # Deep-Comment-Toxicity-Model
-Deep Comment Toxicity Model helps detect different elements of tocixity within a sentence like	toxic,	severe_toxic,	obscene,	threat,	insult,	identity_hate i.e., if a comment is classified as containing some or all of the above gradients of toxicity it will return 1(True) for those particular gradients else it will return 0(False).
+Deep Comment Toxicity Model helps detect different elements of toxicity within a sentence like	toxic,	severe_toxic,	obscene,	threat,	insult,	identity_hate i.e., if a comment is classified as containing some or all of the above gradients of toxicity it will return 1(True) for those particular gradients else it will return 0(False).
 
 # Dataset
 jigsaw-toxic-comment-classification.<br>
